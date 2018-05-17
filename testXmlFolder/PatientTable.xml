@@ -1,0 +1,32 @@
+<by.grsu.deshchenya.table.PatientTable>
+  <rows>
+    <by.grsu.deshchenya.datamodel.Patient>
+      <id>300465954519485</id>
+      <name>Michael Johns</name>
+      <diagnosis>Cancer</diagnosis>
+      <appoinments/>
+      <discharged>false</discharged>
+    </by.grsu.deshchenya.datamodel.Patient>
+    <by.grsu.deshchenya.datamodel.Patient>
+      <id>300465998729501</id>
+      <name>Michael Johns</name>
+      <diagnosis>Cancer</diagnosis>
+      <appoinments/>
+      <discharged>false</discharged>
+    </by.grsu.deshchenya.datamodel.Patient>
+    <by.grsu.deshchenya.datamodel.Patient>
+      <id>301684626009856</id>
+      <name>Michael Johns</name>
+      <diagnosis>Cancer</diagnosis>
+      <appoinments/>
+      <discharged>false</discharged>
+    </by.grsu.deshchenya.datamodel.Patient>
+    <by.grsu.deshchenya.datamodel.Patient>
+      <id>301684701008188</id>
+      <name>Michael Johns</name>
+      <diagnosis>Cancer</diagnosis>
+      <appoinments/>
+      <discharged>false</discharged>
+    </by.grsu.deshchenya.datamodel.Patient>
+  </rows>
+</by.grsu.deshchenya.table.PatientTable>

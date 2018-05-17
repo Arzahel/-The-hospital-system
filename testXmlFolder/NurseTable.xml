@@ -1,0 +1,12 @@
+<by.grsu.deshchenya.table.NurseTable>
+  <rows>
+    <by.grsu.deshchenya.datamodel.Nurse>
+      <id>300454717708124</id>
+      <name>Aghata Kristie</name>
+    </by.grsu.deshchenya.datamodel.Nurse>
+    <by.grsu.deshchenya.datamodel.Nurse>
+      <id>300454721616265</id>
+      <name>Aghata Kristie</name>
+    </by.grsu.deshchenya.datamodel.Nurse>
+  </rows>
+</by.grsu.deshchenya.table.NurseTable>

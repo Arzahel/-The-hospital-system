@@ -1,0 +1,16 @@
+<by.grsu.deshchenya.table.DoctorTable>
+  <rows>
+    <by.grsu.deshchenya.datamodel.Doctor>
+      <id>300068654022404</id>
+      <name>Michael Johns</name>
+    </by.grsu.deshchenya.datamodel.Doctor>
+    <by.grsu.deshchenya.datamodel.Doctor>
+      <id>300192888069115</id>
+      <name>Michael Johns</name>
+    </by.grsu.deshchenya.datamodel.Doctor>
+    <by.grsu.deshchenya.datamodel.Doctor>
+      <id>300193140326592</id>
+      <name>Michael Johns</name>
+    </by.grsu.deshchenya.datamodel.Doctor>
+  </rows>
+</by.grsu.deshchenya.table.DoctorTable>

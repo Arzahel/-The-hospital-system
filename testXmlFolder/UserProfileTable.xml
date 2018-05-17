@@ -1,0 +1,28 @@
+<by.grsu.deshchenya.table.UserProfileTable>
+  <rows>
+    <by.grsu.deshchenya.datamodel.UserProfile>
+      <id>300478022173215</id>
+      <credentials>
+        <id>300478022173215</id>
+        <email>admin</email>
+        <password>admin</password>
+        <role>admin</role>
+      </credentials>
+      <firstName>user1</firstName>
+      <lastName>user1</lastName>
+      <created>2018-05-17 05:54:29.288 UTC</created>
+    </by.grsu.deshchenya.datamodel.UserProfile>
+    <by.grsu.deshchenya.datamodel.UserProfile>
+      <id>300478022173215</id>
+      <credentials>
+        <id>300478022173215</id>
+        <email>admin</email>
+        <password>admin</password>
+        <role>admin</role>
+      </credentials>
+      <firstName>user1</firstName>
+      <lastName>user1</lastName>
+      <created>2018-05-17 05:54:29.535 UTC</created>
+    </by.grsu.deshchenya.datamodel.UserProfile>
+  </rows>
+</by.grsu.deshchenya.table.UserProfileTable>
